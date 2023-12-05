@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'CURRICULUM';
+  imgcv1='CURRICULUM/src/assets/img/imgcv1.jpg';
 }
